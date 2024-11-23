@@ -1,0 +1,117 @@
+body {
+  background-color: #FFF7F0;
+  color: #030303;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#logo img {
+  width: 64px;
+  aspect-ratio: 1;
+}
+
+#call-to-action {
+  background-color: #030303;
+  color: #FFF7F0;
+  text-decoration: none;
+  padding: 14px 45px;
+  border-radius: 1000px;
+}
+
+.text-content {
+  text-align: center;
+}
+
+h1 {
+  font-size: 56px;
+  margin-block-end: 22px;
+}
+
+.text-content p {
+  color: #7A746E;
+}
+
+.image-container {
+  display: flex; 
+  gap: 24px; 
+  justify-content: center;
+
+
+}
+
+.image-container {
+display:flex;
+justify-items: end;
+align-items: start;
+}
+
+.image-container a {
+  border-radius: 3%;
+  text-decoration: none;
+  color: white;
+  width: 354px;
+  height: 364px;
+
+h3 {
+  margin-left: 20px;
+}
+
+#a1 {
+background-color: #755CDE;
+height: 364px;
+width: 354px;
+border-color: #755CDE;
+display: flex;
+flex-direction: column;
+gap: 91px;
+
+}
+
+#a1 img {
+  margin-top: 20px;
+  margin-right: 20px;
+  width: 128px;
+  height: 192px;
+  align-self: flex-end;
+}
+
+
+#a2 {
+background-color: #EB7565;
+height: 364px;
+width: 354px;
+border-color: #EB7565;
+display: flex;
+flex-direction: column;
+gap: 168.13px;	
+}
+
+#a2 {
+  margin-top: 20px;
+  margin-right: 20px;
+  width: 229.75px;
+  height: 114.87px;
+  align-self: flex-end;
+}
+
+#a3 {
+background-color: #61C4B7;
+height: 364px;
+width: 354px;
+border-color: #61C4B7;
+display: flex;
+flex-direction: column;
+gap: 66.35px;
+}
+
+#a3 {
+  margin-top: 20px;
+  margin-right: 20px;
+  width: 86.66px;
+  height: 216.65px;
+  align-self: flex-end;}
